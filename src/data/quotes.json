@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "topic": "success",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 2,
+    "topic": "success",
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 3,
+    "topic": "success",
+    "quote": "The road to success and the road to failure are almost exactly the same.",
+    "author": "Colin R. Davis"
+  },
+  {
+    "id": 4,
+    "topic": "motivation",
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 5,
+    "topic": "motivation",
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 6,
+    "topic": "motivation",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 7,
+    "topic": "leadership",
+    "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+    "author": "Simon Sinek"
+  },
+  {
+    "id": 8,
+    "topic": "leadership",
+    "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "id": 9,
+    "topic": "leadership",
+    "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets people to do the greatest things.",
+    "author": "Ronald Reagan"
+  }
+]

@@ -9,7 +9,8 @@ export function QuoteCard({ quote, author }: QuoteCardProps) {
   return (
     <Card className="w-full">
       <CardHeader className="pb-2">
-        <div className="text-2xl font-bold">"</div>
+        <div className="text-2xl font-bold">&ldquo;</div>
+        <div className="text-2xl font-bold">&rdquo;</div>
       </CardHeader>
       <CardContent>
         <p className="text-lg italic">{quote}</p>
